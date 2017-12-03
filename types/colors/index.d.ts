@@ -129,5 +129,7 @@ declare global {
         trap: string;
         random: string;
         zalgo: string;
+
+        custom: object;
     }
 }
